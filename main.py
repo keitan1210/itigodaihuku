@@ -9,3 +9,4 @@ else:
     print("３の倍数ではない")
 
 print("お菓子作り")
+print("I'm hungry.")
